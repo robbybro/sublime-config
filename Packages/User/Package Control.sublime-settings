@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ActionScript 3",
+		"All Autocomplete",
+		"Color Highlighter",
+		"Color Scheme - Frontend Delight",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pylinter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass",
+		"TernJS",
+		"Theme - Spacegray",
+		"TodoReview",
+		"TrailingSpaces"
+	]
+}
