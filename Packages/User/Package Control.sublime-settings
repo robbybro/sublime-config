@@ -8,10 +8,11 @@
 		"ActionScript 3",
 		"All Autocomplete",
 		"Color Highlighter",
-		"Color Scheme - Frontend Delight",
 		"DocBlockr",
 		"Git",
 		"GitGutter",
+		"JSONLint",
+		"MarkdownEditing",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Pylinter",
@@ -21,7 +22,6 @@
 		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass",
 		"TernJS",
-		"Theme - Spacegray",
 		"TodoReview",
 		"TrailingSpaces"
 	]
