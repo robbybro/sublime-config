@@ -1,4 +1,21 @@
 {
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"node_modules/**"
+	],
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",

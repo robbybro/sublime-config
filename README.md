@@ -1,6 +1,6 @@
 # Sublime Text Configuration Files
 
-Based on [Sublime Text Build 3114 x64 Linux](https://www.sublimetext.com/3).
+Based on [Sublime Text Build 3124 x64 Linux](https://www.sublimetext.com/3).
 
 ## To update from a previous version
 1. Download tar file
